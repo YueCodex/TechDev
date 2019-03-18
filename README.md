@@ -3,10 +3,11 @@ Um simples projeto com o proposito de fazer um simples site e por no ar, com tod
 
 Sobre o Projeto:
 
-Desenvolver o trabalho em equipe entre pessoas dispostas a adquirir e compartilhar conhecimento. 
+Desenvolver o trabalho em equipe entre pessoas dispostas a adquirir e compartilhar conhecimento. Não é necessario que entenda tudo, se nós acompanhar você acaba entendendo tudo o que iremos fazer.
 
 Objetivo:  Criar um site com chat público,onde seja simples e acessível entrar (sem necessidade de manter fixo login e registro) e para qualquer pessoa possa escrever um artigo e publica-lo nas abas de conteúdos de programação, hacking, etc...
 
 Requisitos: 
   front-end: HTML, CSS
-	back-end: PHP, MYSQL 
+  
+  back-end: PHP, MYSQL 
