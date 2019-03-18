@@ -1,0 +1,11 @@
+Parte 1:
+Aqui usamos o index.html(Aqui é o esqueleto do código) e 
+index.css(aqui é o que da o vida ao esqueleto, suas carnes e órgãos hahaha, o estilo da página).
+
+No html usamos o básico para fazer o titulo e o menu, ou seja aquela guias de paginas linkaveis que ficam abaixo do titulo h1.
+
+No Css, usamos um background-color e em cima onde está a guia de menus linkaveis(inclusive, estão animados, os efeitos animados 
+foram feitos com css também) utilizamos um background-image, que usamos de base para o header e menu de links. No código html é o <div class="banner">.
+
+os próximos arquimos irei por o index.html e index.css, a parte 1 que fizemos até agora!
+
