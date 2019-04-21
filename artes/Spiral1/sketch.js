@@ -1,0 +1,21 @@
+setup=_=>{
+    createCanvas(d=window.innerWidth,d)
+	colorMode(HSB,1)
+	x=h=a=0
+  
+}
+draw=_=>{
+	translate(d/2,d/2)
+	o(d)
+	a+=1e-3
+	h+=5e-3
+    x+=0.01
+}
+o=s=>{
+	rotate(x/100)
+  	stroke((h+s/d)%1,1,1)
+    noFill()
+	//line(0,0,s*cos(h),s*sin(h))
+	ellipse(s*cos(h),s*sin(h),s)
+	s>9&&o(s*.95)
+}
